@@ -45,6 +45,8 @@
 //
 // 12. students can enroll in new courses
 //
+//13. admission of student with entry test
 //
+//14. interview of staff and teacher after applying
 //
-//
+//15. own job portal for new openings
